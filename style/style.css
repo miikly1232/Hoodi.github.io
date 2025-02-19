@@ -1,0 +1,48 @@
+.bi-facebook
+{
+  color: rgb(23, 106, 231);
+}
+.bi-google
+{
+  color: rgb(212, 108, 22);
+}
+.bi-linkedin
+{
+  color: rgb(56, 27, 218);
+}
+.shadow
+{
+  border-radius: 100px;
+}
+.form{
+    background-image: url(../asset/shop.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.jk img{
+    font-size: 20px;
+  }
+  .it img{
+    width: 100px;
+  }
+  .ly img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 10px
+  }
+  .main-one{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+  }
+  .card:hover {
+    transform: scale(1.05);
+  }
+
+  
